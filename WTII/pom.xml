@@ -8,19 +8,15 @@
 		<version>2.4.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>io.HectorDuenas</groupId>
-	<artifactId>Who-s-Turn-Is-It</artifactId>
+	<groupId>io.hectorduenas</groupId>
+	<artifactId>WTII</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Who-s-Turn-Is-It</name>
-	<description>Application to determine which of your children&apos;s turn is it.</description>
+	<name>WTII</name>
+	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
 	<dependencies>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-oauth2-client</artifactId>
-		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-thymeleaf</artifactId>

@@ -1,10 +1,10 @@
-package io.HectorDuenas.Who.s.Turn.Is.It;
+package io.hectorduenas.WTII;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class WtiiApplicationTests {
 
 	@Test
 	void contextLoads() {
